@@ -1,2 +1,2 @@
-# prixi
- le7awlel elleh
+# prixi 
+application pour scanner les produits
