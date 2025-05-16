@@ -5,7 +5,7 @@ PRIXI is a modern grocery management app built with Flutter and Firebase, design
 
 <div align="center">
   <img src="qrCode.png">
-  <img src="app.png"> 
+  <img src="app.png" width=500> 
 
 </div>
 ## Features ✨
