@@ -1,16 +1,55 @@
-# flutter_prixi
+# PRIXI - Grocery Management App 🛒
 
-A new Flutter project.
+PRIXI is a modern grocery management app built with Flutter and Firebase, designed to streamline your shopping experience with smart features and intuitive design.
 
-## Getting Started
+## Features ✨
+- 🛍️ Smart shopping list creation
 
-This project is a starting point for a Flutter application.
+- 🔍 Barcode scanning for quick item addition
 
-A few resources to get you started if this is your first Flutter project:
+- 📊 Inventory management with expiry tracking
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🏪 Store navigation and product location
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 💰 Budget tracking and spending analytics
+
+- 🔄 Real-time sync across devices
+
+- 🧩 Recipe integration with automatic ingredient lists
+
+- 🔔 Expiry notifications and smart reminders
+
+## Technology Stack 🛠️
+### Frontend: 
+- Flutter (iOS & Android)
+
+### Backend: Firebase
+
+- Firebase Authentication
+
+- Cloud Firestore (NoSQL database)
+
+- Firebase Storage (for product images)
+
+- Firebase Cloud Functions
+
+- Firebase Cloud Messaging (for notifications)
+
+Additional Packages:
+
+- flutter_barcode_scanner
+
+- provider (state management)
+
+- cached_network_image
+
+
+## Getting Started 🚀
+### Prerequisites
+- Flutter SDK (latest stable version)
+
+- Firebase account
+
+* Android Studio/Xcode (for emulator/simulator)
+
+- Physical device (for testing barcode scanning)
