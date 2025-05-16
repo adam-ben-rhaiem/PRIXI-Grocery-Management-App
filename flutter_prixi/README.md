@@ -53,3 +53,19 @@ Additional Packages:
 * Android Studio/Xcode (for emulator/simulator)
 
 - Physical device (for testing barcode scanning)
+
+### Installation 📲
+
+1. Clone the repository:
+   ```bash
+   git clone --recurse-submodules https://github.com/adam-ben-rhaiem/prixi.git
+ 
+
+2. Get dependencies:
+   ```bash
+   flutter pub get
+
+3. Run on connected device:
+      ```bash
+   flutter run
+
