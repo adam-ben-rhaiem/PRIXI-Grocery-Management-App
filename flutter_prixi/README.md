@@ -20,25 +20,26 @@ PRIXI is a modern grocery management app built with Flutter and Firebase, design
 - 🔔 Expiry notifications and smart reminders
 
 ## Technology Stack 🛠️
-```dart
-dependencies:
-  flutter:
-    sdk: flutter
-  firebase_core: ^2.15.1
-  cloud_firestore: ^4.9.1
-  firebase_auth: ^4.9.0
-  flutter_barcode_scanner: ^3.0.1
 
+### Frontend: 
+- Flutter (iOS & Android)
 
-## Getting Started 🚀
-### Prerequisites
-- Flutter SDK (latest stable version)
+### Backend: 
+- Firebase
+- Firebase Authentication
+- Cloud Firestore (NoSQL database)
+- Firebase Storage (for product images)
+- Firebase Cloud Functions
+- Firebase Cloud Messaging (for notifications)
 
-- Firebase account
+### Additional Packages:
 
-* Android Studio/Xcode (for emulator/simulator)
+- flutter_barcode_scanner
 
-- Physical device (for testing barcode scanning)
+- provider (state management)
+
+- cached_network_image
+
 
 ### Installation 📲
 
