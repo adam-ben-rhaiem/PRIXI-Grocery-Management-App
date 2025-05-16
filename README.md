@@ -45,7 +45,7 @@ PRIXI is a modern grocery management app built with Flutter and Firebase, design
 
 1. Clone the repository:
    ```bash
-   git clone --recurse-submodules https://github.com/adam-ben-rhaiem/prixi.git
+   git clone --recurse-submodules https://github.com/adam-ben-rhaiem/PRIXI-Grocery-Management-App.git
  
 
 2. Get dependencies:
